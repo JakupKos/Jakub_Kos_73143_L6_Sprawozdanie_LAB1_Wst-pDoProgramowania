@@ -10,6 +10,5 @@ print(f"Przewidywane zużycie paliwa to: {zużyte_paliwo} litrów"
       f"\nSzacowany koszt podrózy wynosi: {koszt_paliwa} złotych")
 
 """
-Przy pomocy zapisania zmiennych w postaci float można nimi wykonywać działania matematyczne,
-Przy użyciu "\n" w funkcji print() można zapisać dwie linijki tekstu przy pomocy jednej funkcji print zamiast dwóch
+Korzystając z f-string można wstawić wartości zmiennych bezpośrednio do tekstu
 """
