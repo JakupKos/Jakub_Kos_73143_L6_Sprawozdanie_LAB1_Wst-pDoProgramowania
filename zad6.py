@@ -1,5 +1,5 @@
 #=====================================================
-# zad. 6a
+# zad. 6
 dystans = float(input("Podaj pokonany dystans (km)"))
 spalanie = float(input("Podaj średnie spalanie samochodu (l/100km)"))
 
