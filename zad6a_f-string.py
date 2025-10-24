@@ -1,5 +1,5 @@
 #=====================================================
-# zad. 6b
+# zad. 6a_f-string
 import random
 dystans = random.randint(1,46545)
 
