@@ -7,5 +7,6 @@ dodawanie = a + b
 odejmowanie = a - b
 mnożenie = a * b
 dzielenie = a / b
+potęgowanie = a ** b
 
-print(f"Wyniki: \n Dodawanie: {dodawanie} \n Odejmowanie: {odejmowanie} \n Mnożenie: {mnożenie} \n Dzielenie: {dzielenie}")
+print(f"Wyniki: \n Dodawanie: {dodawanie} \n Odejmowanie: {odejmowanie} \n Mnożenie: {mnożenie} \n Dzielenie: {dzielenie} \n Potęgowanie: {potęgowanie}")
