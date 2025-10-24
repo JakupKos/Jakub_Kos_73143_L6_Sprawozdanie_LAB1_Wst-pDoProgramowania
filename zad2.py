@@ -4,5 +4,5 @@ uczelnia = "Studiuję na WSIiZ"
 print(uczelnia)
 
 """
-do zmiennej "uczelnia" przypisany jest ciąg znaków, który następnie zostaje pokazany za pomocą funkcji print()
+do zmiennej "uczelnia" przypisany jest ciąg znaków, który następnie zostaje pokazany za pomocą funkcji print
 """
